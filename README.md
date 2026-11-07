@@ -34,4 +34,7 @@ Ada tiga metode yang sering dipakai:
 1. Teknik Multimedia dan Digital (TMD):Fokus ke dunia kreatif digital seperti Game Development, Animasi, UI/UX Design, 3D Modeling, sampai bikin konten interaktif.   
 2. Teknik Multimedia dan Jaringan (TMJ):Fokus ke gabungan jaringan komputer, cloud, Internet of Things (IoT), administrasi server, sampai keamanan jaringan.   
 3. Teknik Informatika (TI):Fokus ke arah Software Engineering, Artificial Intelligence (AI), Data Mining, Mobile/Web Programming, dan pengembangan sistem perangkat lunak secara umum.  
-4. Rekayasa Keamanan Siber (RKS):Fokus mendalam buat kamu yang suka jadi "polisi internet", belajar ethical hacking, forensik digital, pengamanan data, penetration testing, dan pertahanan sistem dari serangan hacker jahat. 
+4. Rekayasa Keamanan Siber (RKS):Fokus mendalam buat kamu yang suka jadi "polisi internet", belajar ethical hacking, forensik digital, pengamanan data, penetration testing, dan pertahanan sistem dari serangan hacker jahat.
+
+menurut saya Workshop EXPECTIC Day-1 itu sangat informatif dan padat untuk materi nya, untuk penyampaian materi nya cukup jelas meski waktu nya sedikit dan ada kendala jaringan yang cukup menghambat jalannya workshop. Kalau di rating nilai nya 8/10
+
